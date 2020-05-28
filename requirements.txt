@@ -15,7 +15,6 @@ pymongo==3.10.1
 requests==2.23.0
 setuptools==46.4.0
 soupsieve==2.0.1
-sqlite==3.31.1
 urllib3==1.25.9
 vc==14.1
 vs2015_runtime==14.16.27012
